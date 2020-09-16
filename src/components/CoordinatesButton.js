@@ -15,4 +15,7 @@ export default class CoordinatesButton extends Component {
             </button>
         )
     }
+<<<<<<< HEAD
 }
+=======
+>>>>>>> d889d08178b039a3382da87a8fd75863ac0c9af1
